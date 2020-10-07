@@ -17,7 +17,15 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
+[[experience]]
+  title = "軟體工程師（實習）"
+  company = "神農資訊股份有限公司"
+  company_url = "http://www.saturnimage.com.tw/"
+  location = "臺北市（臺灣）"
+  date_start = "2018-08-31"
+  date_end = ""
+  description = """醫學影像處理相關
+  """
 
 
 +++
