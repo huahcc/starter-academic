@@ -32,7 +32,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "召集人"
   company = "北京創業研習營"
-  company_url = ""
+  company_url = "https://www.facebook.com/%E5%8C%97%E4%BA%AC%E5%89%B5%E6%A5%AD%E7%A0%94%E7%BF%92%E7%87%9F-1661261614180653/"
   location = "北京市（中國）"
   date_start = "2016-12-01"
   date_end = "2017-09-30"
