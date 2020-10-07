@@ -16,7 +16,7 @@ subtitle = ""
 
 [[feature]]
   icon = "my_network"
-  icon_pack = "fab"
+  icon_pack = "custom"
   name = "R"
   description = "90%"
   
