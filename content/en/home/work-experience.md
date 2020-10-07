@@ -3,9 +3,9 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = "2Work Experience"
+title = "Work Experience"
 subtitle = ""
 
 # Date format for experience
@@ -50,6 +50,6 @@ date_format = "Jan 2006"
   date_end = "2017-08-31"
   description = """
   * `數據分析`：分析部門數據，替部門整理了2年400+ 筆的企業合作案資料並建立文件。
-  * `活動策劃`：：協助籌備歷史逾百年，六年⼀次的國際植物學⼤會，洽談異業商務合作，形式包括但不限於資源置換、企業福利、線下落地活動、平台接入、跨界聯合活動、贊助等形式。
+  * `活動策劃`：協助籌備歷史逾百年，六年⼀次的國際植物學⼤會，洽談異業商務合作，形式包括但不限於資源置換、企業福利、線下落地活動、平台接入、跨界聯合活動、贊助等形式。
   """
 +++
