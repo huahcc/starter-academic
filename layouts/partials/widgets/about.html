@@ -30,9 +30,9 @@
 
       <div class="portrait-title">
 
-        {{ range $person.role }}
+        <!-- {{ range $person.role }} -->
         <h2 itemprop="name">{{ $person.name }}</h2>
-        {{ with .role }}<h3 itemprop="jobTitle">{{ . | markdownify | emojify }}</h3>{{ end }}
+        <!-- {{ with $person.role }}<h3 itemprop="jobTitle">{{ . | markdownify | emojify }}</h3>{{ end }} -->
 
         {{ range $person.organizations }}
         <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
@@ -41,7 +41,7 @@
           {{ if .url }}</a>{{ end }}
         </h3>
         {{ end }}
-        {{ end }}
+        <!-- {{ end }} -->
 
 
       </div>
