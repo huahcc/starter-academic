@@ -15,10 +15,9 @@ role2: Founder
 
 # Organizations/Affiliations
 organizations1:
-  name: University of Taipei
+- name: University of Taipei
   url: "https://www.utaipei.edu.tw/bin/home.php?Lang=en"
-organizations2:
-  name: Intern-ship
+- name: Intern-ship
   url: "https://www.facebook.com/Intern-ship-%E5%AF%A6%E7%BF%92%E8%88%B9-419545985123665/"
 
 # Short bio (displayed in user profile at end of posts)
