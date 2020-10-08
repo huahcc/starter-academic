@@ -14,9 +14,10 @@ role1: B.S. Student in Urban Industrial Management and Marketing
 role2: Founder
 
 # Organizations/Affiliations
-organizations:
+organizations1:
 - name: University of Taipei
   url: "https://www.utaipei.edu.tw/bin/home.php?Lang=en"
+organizations2:
 - name: Intern-ship
   url: "https://www.facebook.com/Intern-ship-%E5%AF%A6%E7%BF%92%E8%88%B9-419545985123665/"
 
