@@ -35,7 +35,7 @@
         <!-- role1 -->
         {{ with $person.role1 }}<h3 itemprop="jobTitle">{{ . | markdownify | emojify }}</h3>{{ end }}
         <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
-          {{ with $person.organizations1.url }}<a href="{{ . }}" target="_blank" itemprop="url" rel="noopener">{{ end }}
+          <a href="{{ $person.organizations1.url }}" target="_blank" itemprop="url" rel="noopener">
           <span itemprop="name">{{ $person.organizations1.name }}</span>
           {{ if .url }}</a>{{ end }}
         </h3>
@@ -43,13 +43,15 @@
 
         <!-- role2 -->
         <!-- {{ with $person.role2 }}<h3 itemprop="jobTitle">{{ . | markdownify | emojify }}</h3>{{ end }} -->
-        {{ with $person.role2 }}<h3 itemprop="jobTitle">{{ . | markdownify | emojify }}</h3>{{ end }}
+        
+
+        <!-- {{ with $person.role2 }}<h3 itemprop="jobTitle">{{ . | markdownify | emojify }}</h3>{{ end }}
         <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
           {{ with $person.organizations2.url }}<a href="{{ . }}" target="_blank" itemprop="url" rel="noopener">{{ end }}
           <span itemprop="name">{{ $person.organizations2.name }}</span>
           {{ if .url }}</a>{{ end }}
         </h3>
-
+ -->
         <!-- {{ range $person.organizations }}
         <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
           {{ with .url }}<a href="{{ . }}" target="_blank" itemprop="url" rel="noopener">{{ end }}
