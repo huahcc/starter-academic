@@ -32,16 +32,18 @@
 
         
         <h2 itemprop="name">{{ $person.name }}</h2>
-        {{ range $person.role }}
-        {{ with .role }}<h3 itemprop="jobTitle">{{ . | markdownify | emojify }}</h3>{{ end }}
+        <!-- role1 -->
+        {{ with $person.role1 }}<h3 itemprop="jobTitle">{{ . | markdownify | emojify }}</h3>{{ end }}
+        <!-- role2 -->
+        {{ with $person.role2 }}<h3 itemprop="jobTitle">{{ . | markdownify | emojify }}</h3>{{ end }}
 
-        {{ range .organizations }}
+
+        {{ range $person.organizations }}
         <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
           {{ with .url }}<a href="{{ . }}" target="_blank" itemprop="url" rel="noopener">{{ end }}
           <span itemprop="name">{{ .name }}</span>
           {{ if .url }}</a>{{ end }}
         </h3>
-        {{ end }}
         {{ end }}
 
 
