@@ -10,8 +10,9 @@ authors:
 superuser: true
 
 # Role/position
-role: B.S. Student in Urban Industrial Management and Marketing
-role: Founder
+role:
+- B.S. Student in Urban Industrial Management and Marketing
+- Founder
 
 # Organizations/Affiliations
 organizations:
