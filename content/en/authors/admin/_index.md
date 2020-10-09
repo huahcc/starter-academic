@@ -11,7 +11,7 @@ superuser: true
 
 # Role/position
 role1: B.S. Student in Urban Industrial Management and Marketing
-role2: Founder
+role2: Founder of 
 
 # Organizations/Affiliations
 organizations1:
