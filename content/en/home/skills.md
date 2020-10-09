@@ -15,22 +15,28 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "my_network"
-  icon_pack = "custom"
-  name = "R"
-  description = "90%"
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "行銷企劃"
+  description = "活動企劃, 關鍵字行銷, 內容行銷, 展場規劃"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "tasks"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "管理"
+  description = "專案管理, 組織管理, 產品管理"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "palette"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "設計"
+  description = "平面設計 (Adobe Illustrator / InDesign / Photoshop / Flash, Canvas), 展場設計"
+  
+[[feature]]
+  icon = "graduation-cap"
+  icon_pack = "fas"
+  name = "教育"
+  description = "課程規劃與設計執行, 創新教育, 鄉村教育"
 
 # Uncomment to use emoji icons.
 # [[feature]]
