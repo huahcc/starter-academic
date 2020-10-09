@@ -45,8 +45,8 @@ subtitle = ""
   description = "使用者研究, 使用者設計, 流程優化"
   
 [[feature]]
-  icon = "analytics"
-  icon_pack = "far"
+  icon = "user-friends"
+  icon_pack = "fas"
   name = "分析"
   description = "市場分析, 競品分析, 數據分析"
 
