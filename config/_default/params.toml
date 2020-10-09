@@ -114,7 +114,7 @@ phone = ""
 contact_links = [
   {icon = "envelope", icon_pack = "fas", name = "xcjocjo@gmail.com", link = "mailto:xcjocjo@gmail.com"},
   {icon = "phone-volume", icon_pack = "fas", name = "886-919-395038", link = "tel:+886919395038"},
-  {icon = "linkedin", icon_pack = "fab", name = "DM Me", link = "https://www.linkedin.com/in/huahcc/"}
+  {icon = "linkedin", icon_pack = "fab", name = "DM Me", link = "https://www.linkedin.com/in/huahcc/"},
   {icon = "weixin", icon_pack = "fab", name = "xcjocjo", link = ""},
   ]
 
