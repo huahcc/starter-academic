@@ -46,7 +46,7 @@ subtitle = ""
   
 [[feature]]
   icon = "analytics"
-  icon_pack = "fas"
+  icon_pack = "far"
   name = "分析"
   description = "市場分析, 競品分析, 數據分析"
 
