@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "chart-bar"
+  icon = "chart-line"
   icon_pack = "fas"
   name = "行銷企劃"
   description = "活動企劃, 關鍵字行銷, 內容行銷, 展場規劃, 社群營運, 用戶增長"
@@ -45,7 +45,7 @@ subtitle = ""
   description = "使用者研究, 使用者設計, 流程優化"
   
 [[feature]]
-  icon = "user-friends"
+  icon = "chart-bar"
   icon_pack = "fas"
   name = "分析"
   description = "市場分析, 競品分析, 數據分析"
