@@ -27,13 +27,13 @@
   	url = "#skills"
   	weight = 20
   [[zh-Hant.menu.main]]
-  	name = "作品"
-  	url = "#projects"
-  	weight = 30
-  [[zh-Hant.menu.main]]
   	name = "經歷"
-  	url = "#experience"
+  	url = "#work-experience"
   	weight = 40
+  [[zh-Hant.menu.main]]
+  	name = "專案"
+  	url = "#project-experience"
+  	weight = 50
   [[zh-Hant.menu.main]]
   	name = "聯絡資訊"
   	url = "#contact"
