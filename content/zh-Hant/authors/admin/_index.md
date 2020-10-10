@@ -25,7 +25,7 @@ organizations2:
   name: 實習船 Intern-ship
   url: "https://www.facebook.com/Intern-ship-%E5%AF%A6%E7%BF%92%E8%88%B9-419545985123665/"
 organizations3:
-  name: 北市大行銷顧問社 Marketing Village
+  name: 北市大行銷顧問社
   url: "https://www.facebook.com/MKV-UT-Marketing-Village-102244654968249"
 
 # Short bio (displayed in user profile at end of posts)
