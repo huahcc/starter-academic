@@ -36,7 +36,7 @@ education:
     institution: 臺北市立大學
     year: 2016
     papers:
-    - (畢業論文) 建構奢侈品牌價值估值方法 - 以Jo Malone實證
+    - 論文 - 建構奢侈品牌價值估值方法 - 以Jo Malone實證
   - course: 工商管理學系交換生
     institution: 華東師範大學
     year: 2019
