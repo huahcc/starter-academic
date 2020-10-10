@@ -2,15 +2,15 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 70  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Competition"
 subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -19,33 +19,45 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "ATCC"
+  organization_url = "https://www.atcc.co/"
+  title = "ATCC (ATONA Case Competition)"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2017-01-01"
   date_end = ""
-  description = ""
+  description = """
+  * Got Cathay Financial Holdings - Financial Innovation Group top ten from total 826 groups.
+  """
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Mercer"
+  organization_url = "https://www.mercer.com/"
+  title = "美世盃商業案例分析大賽"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-01-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "從超過200組隊伍中取得第21名佳績"
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Bain & Company"
+  organization_url = "https://www.bain.com/"
+  title = "貝恩盃諮詢啟航案例大賽"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = "2018-01-01"
+  date_end = ""
+  description = "從423組隊伍中取得佳作"
+  
+[[item]]
+  organization = "教育部"
+  organization_url = "https://www.edu.tw/"
+  title = "GIFT平台行銷企劃案競賽"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-01-01"
+  date_end = ""
+  description = "取得第三名佳績"
 
 +++
