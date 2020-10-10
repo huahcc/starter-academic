@@ -39,22 +39,22 @@ date_format = "2006"
   description = "從超過200組隊伍中取得第21名佳績"
   
 [[item]]
-  organization = ""
-  organization_url = ""
+  organization = "Bain & Company"
+  organization_url = "https://www.bain.com/"
   title = "2018 貝恩盃諮詢啟航案例大賽"
   url = ""
   certificate_url = ""
-  date_start = ""
+  date_start = "2018-01-01"
   date_end = ""
   description = "從423組隊伍中取得佳作"
   
 [[item]]
-  organization = ""
-  organization_url = ""
+  organization = "教育部"
+  organization_url = "https://www.edu.tw/"
   title = "2020 教育部GIFT平台行銷企劃案競賽"
   url = ""
   certificate_url = ""
-  date_start = "2020-02-01"
+  date_start = "2020-01-01"
   date_end = ""
   description = "取得第三名佳績"
 
