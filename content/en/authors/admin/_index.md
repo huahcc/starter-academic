@@ -79,10 +79,10 @@ user_groups:
 - Visitors
 ---
 
-就讀於臺北市立大學都會產業經營與行銷學系的準畢業生，興趣包括但不限於地方創生、偏鄉教育、藝術管理、奢侈品行銷和UI/UX等。
+I am a B.S. Student in Urban Industrial Management and Marketing at University of Taipei. My interdisciplinary interests including local revitalization, rural education, luxury marketing, graphic design and arts administration.
 
-非營利教育社群<a href="https://www.facebook.com/Intern-ship-%E5%AF%A6%E7%BF%92%E8%88%B9-419545985123665/">實習船</a>之創辦人，目標成為協助青年學習與就業的職涯規劃平台。
+Founder of non-profit educational community <a href="https://www.facebook.com/Intern-ship-%E5%AF%A6%E7%BF%92%E8%88%B9-419545985123665/">實習船 Intern-ship</a>, aim to become a career planning platform to assist youth in learning and employment.
 
-<a href="https://www.facebook.com/MKV-UT-Marketing-Village-102244654968249">北市大行銷顧問社</a>創辦人，期許縮小地方學校與頂大間的資源落差。
+Founder of <a href="https://www.facebook.com/MKV-UT-Marketing-Village-102244654968249">北市大行銷顧問社 Marketing Village</a>, dedicated to narrowing the resource gap between local universities and top universities.
 
-對任何工作、專案合作機會抱持開放態度，歡迎隨時來信交流！
+Feel free to contact me for any reason, it will be my pleasure to hear from you. Have a nice day!

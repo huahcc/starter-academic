@@ -81,8 +81,8 @@ user_groups:
 
 就讀於臺北市立大學都會產業經營與行銷學系的準畢業生，興趣包括但不限於地方創生、偏鄉教育、藝術管理、奢侈品行銷和UI/UX等。
 
-非營利教育社群<a href="https://www.facebook.com/Intern-ship-%E5%AF%A6%E7%BF%92%E8%88%B9-419545985123665/">實習船</a>之創辦人，目標成為協助青年學習與就業的職涯規劃平台。
+非營利教育社群<a href="https://www.facebook.com/Intern-ship-%E5%AF%A6%E7%BF%92%E8%88%B9-419545985123665/">實習船 Intern-ship</a>之創辦人，目標成為協助青年學習與就業的職涯規劃平台。
 
-<a href="https://www.facebook.com/MKV-UT-Marketing-Village-102244654968249">北市大行銷顧問社</a>創辦人，期許縮小地方學校與頂大間的資源落差。
+<a href="https://www.facebook.com/MKV-UT-Marketing-Village-102244654968249">北市大行銷顧問社 Marketing Village</a>創辦人，期許縮小地方學校與頂大間的資源落差。
 
 對任何工作、專案合作機會抱持開放態度，歡迎隨時來信交流！
