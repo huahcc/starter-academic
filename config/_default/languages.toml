@@ -38,6 +38,10 @@
   	name = "聯絡資訊"
   	url = "#contact"
   	weight = 60
+  [[main]]
+    name = "競賽"
+    url = "#accomplishment"
+    weight = 70
   [[zh-Hant.menu.main]]
     name = "簡歷"
     url = "files/HsiangChuChou-zh.pdf"

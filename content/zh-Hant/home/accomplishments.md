@@ -26,7 +26,7 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2017-01-01"
   date_end = ""
-  description = "從826組隊伍中，獲得國泰金控 - 金融創新組 前十名"
+  description = "● 從826組隊伍中，獲得國泰金控 - 金融創新組 前十名"
 
 [[item]]
   organization = "Mercer"
@@ -36,7 +36,7 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2018-01-01"
   date_end = ""
-  description = "從超過200組隊伍中取得第21名佳績"
+  description = "● 從超過200組隊伍中取得第21名佳績"
   
 [[item]]
   organization = "Bain & Company"
@@ -46,7 +46,7 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2018-01-01"
   date_end = ""
-  description = "從423組隊伍中取得佳作"
+  description = "● 從423組隊伍中取得佳作"
   
 [[item]]
   organization = "教育部"
@@ -56,6 +56,6 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2020-01-01"
   date_end = ""
-  description = "取得第三名佳績"
+  description = "● 取得第三名佳績"
 
 +++

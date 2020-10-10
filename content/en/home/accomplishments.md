@@ -36,26 +36,26 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2018-01-01"
   date_end = ""
-  description = "Got #21 從超過200組隊伍中取得第21名佳績"
+  description = "● Got #21 from more than 200 groups."
   
 [[item]]
   organization = "Bain & Company"
   organization_url = "https://www.bain.com/"
-  title = "貝恩盃諮詢啟航案例大賽"
+  title = "Bain Case Competition"
   url = ""
   certificate_url = ""
   date_start = "2018-01-01"
   date_end = ""
-  description = "從423組隊伍中取得佳作"
+  description = "● Got excellent work honor from 423 groups."
   
 [[item]]
-  organization = "教育部"
+  organization = "Ministry of Education"
   organization_url = "https://www.edu.tw/"
-  title = "GIFT平台行銷企劃案競賽"
+  title = "GIFT Marketing Contest"
   url = ""
   certificate_url = ""
   date_start = "2020-01-01"
   date_end = ""
-  description = "取得第三名佳績"
+  description = "● Got third place honor."
 
 +++
