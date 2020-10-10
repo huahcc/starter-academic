@@ -42,6 +42,30 @@ date_format = "Jan 2006"
   * `活動策劃`：負責規劃線上線下活動，並達成參與率與滿意度各100%。
   """
 [[experience]]
+  title = "商業開發代表"
+  company = "臺北市政府捷運工程局"
+  company_url = "https://www.dorts.gov.taipei/"
+  location = "臺北市（臺灣）"
+  date_start = "2018-07-01"
+  date_end = "2018-12-31"
+  description = """
+  * `商業開發`：接觸愛奇藝、Line、臺北美術館、仁寶電腦等企業進行需求開發與商業談判。
+  * `合作提案`：盤點現有資源與預期目標對企業進行資源交換。
+  * `活動策劃`：規劃耶誕樂派對活動，單日人流估計1500+。
+  """
+[[experience]]
+  title = "資源開發 & 課程研發專員"
+  company = "時光聚落創學有限公司 (愛飛屋)"
+  company_url = "https://www.facebook.com/ifly999"
+  location = "臺中市（臺灣）"
+  date_start = "2017-09-01"
+  date_end = "2018-2-28"
+  description = """
+  * `資源開發`：找尋契合的合作單位與各項專才職人，與各類型的單位如複雜生活節、臺中社會創新實驗基地等進行跨域交流。
+  * `課程研發`：參與開發多元社會情境學習課程，如大學生培力計畫、親子議題共學、鄉鎮走讀活動等。
+  * `專案管理`：搭針對學童個案進行適性化評量與規劃差異化學習。
+  """
+[[experience]]
   title = "廣告企劃人員（實習）"
   company = "深圳會展中心"
   company_url = "https://www.szcec.com/Schedule/"
