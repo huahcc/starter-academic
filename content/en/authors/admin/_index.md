@@ -27,13 +27,23 @@ interests:
 - Local Revitalization
 - Rural Education
 - Luxury Marketing
+- Graphic Design
 - Arts Administration
 
 education:
   courses:
   - course: B.S. in Urban Industrial Management and Marketing
-    institution: University of Taipei
+    institution: University of Taipei (Thesis x1)
     year: 2016
+    papers:
+    - 1. Construction of Luxury Brand Value Valuation Method – Case Study of Jo Malone
+  - course: Exchange in Falculty of Economics and Management
+    institution: East China Normal University (Thesis x3)
+    year: 2019
+    papers:
+    - 1. Analysis of Influencing Factors of Inpatient Costs Based on BP Neural Network
+    - 2. The Cause, Process, Countermeasures and Enlightenment of The European Debt Crisis in 2010
+    - 3. Accurate Matching and Personalized Recommendation Strategies for E-commerce Operations
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,7 +79,7 @@ user_groups:
 - Visitors
 ---
 
-就讀於臺北市立大學都會產業經營與行銷學系的準畢業生，興趣包括但不限於地方創生、鄉村教育、藝術管理、奢侈品行銷和UI/UX等。
+就讀於臺北市立大學都會產業經營與行銷學系的準畢業生，興趣包括但不限於地方創生、偏鄉教育、藝術管理、奢侈品行銷和UI/UX等。
 
 非營利教育社群<a href="https://www.facebook.com/Intern-ship-%E5%AF%A6%E7%BF%92%E8%88%B9-419545985123665/">實習船</a>之創辦人，目標成為協助青年學習與就業的職涯規劃平台。
 
