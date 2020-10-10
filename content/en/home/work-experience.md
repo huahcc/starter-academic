@@ -18,16 +18,16 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Quality Engineer & Marketing（實習）"
-  company = "Fugle 群馥科技股份有限公司"
+  title = "Quality Engineer & Marketing (Intern)"
+  company = "Fortuna Intelligence Co., Ltd."
   company_url = "https://www.fugle.tw/"
-  location = "臺北市（臺灣）"
+  location = "Taipei City, Taiwan"
   date_start = "2018-07-01"
   date_end = "2020-07-31"
   description = """
-  * `產品優化`：測試公司 APP 與網頁端功能，找出產品對各個細分市場的吸引力與優化20+ 個以上的功能，將其功能於社群推播於不同目標客戶。
-  * `產品策劃`：提案3個新功能，透過 UI/UX 分析出適宜性，畫出 Prototype 與工程師進行溝通，成功經過內部測試評估與上線，得到許多用戶反饋以進行新功能迭代的數據支持。
-  * `社群營運`：搭建社群營運框架，分析用戶需求，通過日常的話題互動、問題解答、科普文輸出、福利活動等形式，獲得8000+ 粉絲；轉化登記有效意向用戶3000+。
+  * `Product Optimization`: Company's application and web-side functions testing, find out the attractiveness of the product to each market segment and optimize more than 20+ functions. Promote those to different target customers through social media.
+  * `Product Planning`：Proposed 3 new functions, analyzed the suitability through UI/UX, drew prototype to communicate with engineers. Successfully passed internal evaluation and went officially online, received numerous user feedbacks for data support for new function iteration.
+  * `Community Operation`：Build a community operation framework analyze user needs, obtain 8000+ fans through daily topic interaction, question answering, popular science output and welfare activities, etc., converting 3000+ registered users with valid intentions.
   """
 [[experience]]
   title = "校園市場經理"
