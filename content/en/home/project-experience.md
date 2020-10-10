@@ -62,7 +62,7 @@ date_format = "Jan 2006"
   description = """
   * `Event Planning`：Responsible for online and offline event planning, combined with on-site management, and arrangement visitation to Beijing and Tsinghua University, Tencent, Baidu and other companies.
   * `Data Analysis`：Responsible for monitoring and reviewing the activities of the camp, analyzing and summarizing in a data-based way of thinking, and improving the input-output ratio of activities.
-  * `Opinion Monitoring`：Called over 50+ universities registrated activities, received 5 interviews on the last day of the event by mass media such as People’s Daily. 號召來自全台北中南50所+ 大學報名活動，並於活動最後一天獲得5所以上如人民日報等大型媒體採訪。
+  * `Opinion Monitoring`：Called over 50+ universities registrated activities, received 5 interviews on the last day of the event by mass media such as People’s Daily.
   """
 [[experience]]
   title = "VP"
