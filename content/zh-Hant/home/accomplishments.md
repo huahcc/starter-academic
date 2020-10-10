@@ -21,7 +21,7 @@ date_format = "2006"
 [[item]]
   organization = "ATCC"
   organization_url = "https://www.atcc.co/"
-  title = "ATCC 全國大專院校商業個案大賽"
+  title = "2017 ATCC 全國大專院校商業個案大賽"
   url = ""
   certificate_url = ""
   date_start = "2017-01-01"
@@ -41,11 +41,21 @@ date_format = "2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "從超過200組隊伍中取得第21名佳績"
+  title = "2018 貝恩盃諮詢啟航案例大賽"
   url = ""
   certificate_url = ""
-  date_start = "2018-02-01"
+  date_start = ""
   date_end = ""
   description = "從423組隊伍中取得佳作"
+  
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "2020 教育部GIFT平台行銷企劃案競賽"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-02-01"
+  date_end = ""
+  description = "取得第三名佳績"
 
 +++
