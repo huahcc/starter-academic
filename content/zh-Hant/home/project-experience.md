@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.facebook.com/Intern-ship-%E5%AF%A6%E7%BF%92%E8%88%B9-419545985123665/"
   location = "臺灣"
   date_start = "2018-04-01"
-  date_end = ""
+  date_end = "2100-12-31"
   description = """
   * `用戶增長`：搭建0-1社群，粉絲專頁1周內達到60,000+ 用戶量的觸及與10,000+ 精准用戶的互動數。
   * `企業合作`：策劃與知名企業如微軟、MOOX 等合作活動，融入工作坊，為雙方共同製造獲利。
