@@ -12,14 +12,18 @@ superuser: true
 # Role/position
 role1: B.S. Student in Urban Industrial Management and Marketing
 role2: Founder
+role3: Founder
 
 # Organizations/Affiliations
 organizations1:
   name: University of Taipei
   url: "https://www.utaipei.edu.tw/bin/home.php?Lang=en"
 organizations2:
-  name: Intern-ship
+  name: 實習船 Intern-ship
   url: "https://www.facebook.com/Intern-ship-%E5%AF%A6%E7%BF%92%E8%88%B9-419545985123665/"
+organizations3:
+  name: 北市大行銷顧問社 Marketing Village
+  url: "https://www.facebook.com/MKV-UT-Marketing-Village-102244654968249"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include local revitalization, rural education, luxury marketing and arts administration. 

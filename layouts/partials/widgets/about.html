@@ -42,7 +42,16 @@
         </span>
         
         <br>
-        <br>
+
+        <span style="text-decoration:underline;">
+        {{ with $person.role3 }}<h3 itemprop="jobTitle" style="display: inline;">{{ . | markdownify | emojify }}&nbsp;-&nbsp;</h3>{{ end }}
+        <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization" style="display: inline;">
+          {{ with $person.organizations3.url }}<a href="{{ . }}" target="_blank" itemprop="url" rel="noopener">{{ end }}
+          <span itemprop="name">{{ $person.organizations3.name }}</span>
+          {{ if $person.organizations3.url }}</a>{{ end }}
+        </h3>
+        </span>
+
 
         {{ with $person.role1 }}<h3 itemprop="jobTitle">{{ . | markdownify | emojify }}</h3>{{ end }}
         <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">

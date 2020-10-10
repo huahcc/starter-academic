@@ -12,6 +12,7 @@ superuser: true
 # Role/position
 role1: 都會產業經營與行銷學系學士
 role2: 創辦人
+role3: 創辦人
 
 # Organizations/Affiliations
 organizations1:
@@ -20,6 +21,12 @@ organizations1:
 organizations2:
   name: 實習船
   url: "https://www.facebook.com/Intern-ship-%E5%AF%A6%E7%BF%92%E8%88%B9-419545985123665/"
+organizations2:
+  name: 實習船 Intern-ship
+  url: "https://www.facebook.com/Intern-ship-%E5%AF%A6%E7%BF%92%E8%88%B9-419545985123665/"
+organizations3:
+  name: 北市大行銷顧問社 Marketing Village
+  url: "https://www.facebook.com/MKV-UT-Marketing-Village-102244654968249"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include local revitalization, rural education, luxury marketing and arts administration. 
@@ -83,6 +90,6 @@ user_groups:
 
 非營利教育社群<a href="https://www.facebook.com/Intern-ship-%E5%AF%A6%E7%BF%92%E8%88%B9-419545985123665/">實習船 Intern-ship</a>之創辦人，目標成為協助青年學習與就業的職涯規劃平台。
 
-<a href="https://www.facebook.com/MKV-UT-Marketing-Village-102244654968249">北市大行銷顧問社 Marketing Village</a>創辦人，期許縮小地方學校與頂大間的資源落差。
+<a href="https://www.facebook.com/MKV-UT-Marketing-Village-102244654968249">北市大行銷顧問社 Marketing Village</a>創辦人，致力於縮小地方大學與頂大間的資源落差。
 
 對任何工作、專案合作機會抱持開放態度，歡迎隨時來信交流！
