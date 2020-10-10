@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Competition"
-  url = "#accomplishment"
+  url = "#accomplishments"
   weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
