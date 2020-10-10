@@ -59,7 +59,7 @@ date_format = "Jan 2006"
   company_url = "https://www.facebook.com/ifly999"
   location = "臺中市（臺灣）"
   date_start = "2017-09-01"
-  date_end = "2018-2-28"
+  date_end = "2018-02-28"
   description = """
   * `資源開發`：找尋契合的合作單位與各項專才職人，與各類型的單位如複雜生活節、臺中社會創新實驗基地等進行跨域交流。
   * `課程研發`：參與開發多元社會情境學習課程，如大學生培力計畫、親子議題共學、鄉鎮走讀活動等。
