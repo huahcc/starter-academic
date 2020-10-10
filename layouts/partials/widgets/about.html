@@ -40,7 +40,9 @@
           {{ if $person.organizations2.url }}</a>{{ end }}
         </h3>
         </span>
-        <!-- <br> -->
+        
+        <br>
+        <br>
 
         {{ with $person.role1 }}<h3 itemprop="jobTitle">{{ . | markdownify | emojify }}</h3>{{ end }}
         <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
@@ -119,7 +121,7 @@
               <p class="institution">{{ .institution }}</p>
               <!-- 修改這邊，多加跟class和institution一樣，但其實是拿來放GPA的！ -->
               {{ range .papers }}
-              <p class="institution" style="display: inline;">{{ . }}</p><br>
+              <p class="institution" style="display: inline;">{{ . }}</p>
               {{ end }}
             </div>
           </li>
