@@ -35,13 +35,13 @@
   	url = "#project-experience"
   	weight = 50
   [[zh-Hant.menu.main]]
+    name = "競賽"
+    url = "#accomplishments"
+    weight = 55
+  [[zh-Hant.menu.main]]
   	name = "聯絡資訊"
   	url = "#contact"
   	weight = 60
-  [[zh-Hant.menu.main]]
-    name = "競賽"
-    url = "#accomplishments"
-    weight = 70
   [[zh-Hant.menu.main]]
     name = "簡歷"
     url = "files/HsiangChuChou-zh.pdf"
