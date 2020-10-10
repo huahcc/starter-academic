@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 # 要“Present/現在”，date_end要設定成2100-12-31!
 [[experience]]
   title = "Founder"
-  company = "實習船 (Intern-ship)"
+  company = "實習船 Intern-ship"
   company_url = "https://www.facebook.com/Intern-ship-%E5%AF%A6%E7%BF%92%E8%88%B9-419545985123665/"
   location = "Taiwan"
   date_start = "2018-04-01"
@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   """
 [[experience]]
   title = "Founder"
-  company = "北市大行銷顧問社 (Market Village)"
+  company = "北市大行銷顧問社 Marketing Village"
   company_url = "https://www.facebook.com/MKV-UT-Marketing-Village-102244654968249"
   location = "Taipei City, Taiwan"
   date_start = "2020-08-01"
