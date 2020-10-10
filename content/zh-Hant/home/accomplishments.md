@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Competition"
 subtitle = ""
 
 # Date format
@@ -21,7 +21,7 @@ date_format = "2006"
 [[item]]
   organization = "ATCC"
   organization_url = "https://www.atcc.co/"
-  title = "2017 ATCC 全國大專院校商業個案大賽"
+  title = "ATCC 全國大專院校商業個案大賽"
   url = ""
   certificate_url = ""
   date_start = "2017-01-01"
@@ -31,7 +31,7 @@ date_format = "2006"
 [[item]]
   organization = "Mercer"
   organization_url = "https://www.mercer.com/"
-  title = "2018 美世盃商業案例分析大賽"
+  title = "美世盃商業案例分析大賽"
   url = ""
   certificate_url = ""
   date_start = "2018-01-01"
@@ -41,7 +41,7 @@ date_format = "2006"
 [[item]]
   organization = "Bain & Company"
   organization_url = "https://www.bain.com/"
-  title = "2018 貝恩盃諮詢啟航案例大賽"
+  title = "貝恩盃諮詢啟航案例大賽"
   url = ""
   certificate_url = ""
   date_start = "2018-01-01"
@@ -51,7 +51,7 @@ date_format = "2006"
 [[item]]
   organization = "教育部"
   organization_url = "https://www.edu.tw/"
-  title = "2020 教育部GIFT平台行銷企劃案競賽"
+  title = "GIFT平台行銷企劃案競賽"
   url = ""
   certificate_url = ""
   date_start = "2020-01-01"
