@@ -14,7 +14,6 @@
     {{ $exp_len := len $page.Params.experience }}
     {{ $current_exp_len := len (where $page.Params.experience ".date_end" "") }}
     {{ range $idx, $key := ((where $page.Params.experience ".date_end" "" ) sort $page.Params.experience ".date_start" "desc") }}
-    <!-- {{ range $idx, $key := sort $page.Params.experience ".date_start" "desc" }} -->
     <div class="row experience">
       <!-- Timeline -->
       <div class="col-auto text-center flex-column d-none d-sm-flex">
