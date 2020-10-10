@@ -19,7 +19,7 @@
       {icon = "weixin", icon_pack = "fab", name = "xcjocjo", link = ""},
       ]
   [[zh-Hant.menu.main]]
-  	name = "關於我"
+  	name = "關於"
   	url = "#about"
   	weight = 10
   [[zh-Hant.menu.main]]
@@ -39,7 +39,7 @@
     url = "#accomplishments"
     weight = 55
   [[zh-Hant.menu.main]]
-  	name = "聯絡資訊"
+  	name = "聯絡"
   	url = "#contact"
   	weight = 60
   [[zh-Hant.menu.main]]
