@@ -33,12 +33,12 @@ interests:
 education:
   courses:
   - course: 都會產業經營與行銷學系學士
-    institution: 臺北市立大學 (專題x1)
+    institution: 臺北市立大學 (畢業論文x1)
     year: 2016
     papers:
     - 1. 建構奢侈品牌價值估值方法 - 以Jo Malone實證
   - course: 工商管理學系交換生
-    institution: 華東師範大學 (專題x3)
+    institution: 華東師範大學 (專題論文x3)
     year: 2019
     papers:
     - 1. 基於BP神經網路的住院費用影響因素分析
