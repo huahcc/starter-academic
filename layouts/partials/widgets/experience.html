@@ -41,7 +41,7 @@
               {{ if eq .date_end "2100-12-31"}}
                 {{ i18n "present" | default "Present" }}
               {{else}}
-                {{ (time .date_end).Format ($page.Params.date_format | default "January 2006") }}
+                {{ i18n "present" | default "Present" }}
               {{end}}
               {{with .location}}
                 <span class="middot-divider"></span>
