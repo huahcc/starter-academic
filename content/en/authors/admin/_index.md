@@ -87,6 +87,6 @@ I am a B.S. Student in Urban Industrial Management and Marketing at University o
 
 Founder of non-profit educational community <a href="https://www.facebook.com/Intern-ship-%E5%AF%A6%E7%BF%92%E8%88%B9-419545985123665/">實習船 Intern-ship</a>, aim to become a career planning platform to assist youth in learning and employment.
 
-Founder of <a href="https://www.facebook.com/MKV-UT-Marketing-Village-102244654968249">北市大行銷顧問社 Marketing Village</a>, dedicated to narrowing the resource gap between local universities and top universities.
+Founder of <a href="https://www.facebook.com/MKV-UT-Marketing-Village-102244654968249">北市大行銷顧問社 Marketing Village</a>, dedicated to narrowing the resource gap between local and top universities.
 
 Feel free to contact me for any reason, it will be my pleasure to hear from you. Have a nice day!
