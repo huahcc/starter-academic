@@ -24,7 +24,7 @@ subtitle = ""
   icon = "tasks"
   icon_pack = "fas"
   name = "策略管理"
-  description = "專案管理, 產品策略, 品牌策略, 競合策略分析能力"  
+  description = "專案管理, 產品策略, 品牌策略, 競合策略分析"  
   
 [[feature]]
   icon = "palette"
@@ -36,13 +36,13 @@ subtitle = ""
   icon = "graduation-cap"
   icon_pack = "fas"
   name = "創新教育"
-  description = "課程規劃, 偏鄉教育, 教學媒材製作, 國際教育發展趨勢研究, 數位學習"
+  description = "課程規劃, 偏鄉教育, 教學媒材製作, 國際教育發展趨勢, 數位學習"
 
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "資訊應用"
-  description = "數據分析、科技應用 (ex. Arduino, Spark AR)<量化行銷"
+  description = "數據分析, 科技應用 (ex. Arduino, Spark AR), 量化行銷"
   
 [[feature]]
   icon = "chart-line"
