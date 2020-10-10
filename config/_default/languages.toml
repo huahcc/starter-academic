@@ -38,7 +38,7 @@
   	name = "聯絡資訊"
   	url = "#contact"
   	weight = 60
-  [[main]]
+  [[zh-Hant.menu.main]]
     name = "競賽"
     url = "#accomplishments"
     weight = 70
