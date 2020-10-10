@@ -41,7 +41,7 @@
               {{ if eq .date_end "2099-12-31"}}
                 {{ i18n "present" | default "Present" }}
               {{else}}
-                12345
+                {{ .date_end }}
               {{end}}
               {{with .location}}
                 <span class="middot-divider"></span>
