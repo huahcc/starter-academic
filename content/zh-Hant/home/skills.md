@@ -15,22 +15,22 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "chart-line"
+  icon = "user-friends"
   icon_pack = "fas"
   name = "行銷管理"
-  description = "活動企劃, 關鍵字行銷, 內容行銷, 社群營運, 增長黑客, 使用者研究, 資源連結, 消費者行為"
+  description = "活動企劃, 關鍵字行銷, 內容行銷, 社群營運, 成長駭客, 使用者研究, 資源連結, 消費者行為"
   
 [[feature]]
   icon = "tasks"
   icon_pack = "fas"
   name = "策略管理"
-  description = "專案管理, 產品策略, 品牌策略, 競合策略分析能力, MECE"  
+  description = "專案管理, 產品策略, 品牌策略, 競合策略分析能力"  
   
 [[feature]]
   icon = "palette"
   icon_pack = "fas"
   name = "設計能力"
-  description = "平面設計 (Adobe Illustrator / InDesign / Photoshop / Flash, Canva), 展場/空間/攤販設計, 使用者介面"
+  description = "平面設計 (Adobe Illustrator / InDesign / Photoshop / Flash, Canva), 使用者介面, 展場與空間設計"
   
 [[feature]]
   icon = "graduation-cap"
@@ -39,16 +39,16 @@ subtitle = ""
   description = "課程規劃, 偏鄉教育, 教學媒材製作, 國際教育發展趨勢研究, 數位學習"
 
 [[feature]]
-  icon = "user-friends"
+  icon = "laptop-code"
   icon_pack = "fas"
   name = "資訊應用"
-  description = "數據分析、量化行銷、科技應用 (ex. Arduino, Spark AR)"
+  description = "數據分析、科技應用 (ex. Arduino, Spark AR)<量化行銷"
   
 [[feature]]
-  icon = "chart-bar"
+  icon = "chart-line"
   icon_pack = "fas"
   name = "財務能力"
-  description = "財務管理, 衍金資產研究, 財務報表分析, 財務金融創新"
+  description = "衍金資產研究, 財務報表分析, 財務金融創新, 財務管理"
 
 # Uncomment to use emoji icons.
 # [[feature]]
