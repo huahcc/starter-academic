@@ -63,12 +63,12 @@ date_format = "Jan 2006"
   description = """
   * `資源開發`：找尋契合的合作單位與各項專才職人，與各類型的單位如複雜生活節、臺中社會創新實驗基地等進行跨域交流。
   * `課程研發`：參與開發多元社會情境學習課程，如大學生培力計畫、親子議題共學、鄉鎮走讀活動等。
-  * `專案管理`：搭針對學童個案進行適性化評量與規劃差異化學習。
+  * `專案管理`：針對學童個案進行適性化評量與規劃差異化學習。
   """
 [[experience]]
   title = "廣告企劃人員（實習）"
   company = "深圳會展中心"
-  company_url = "https://www.szcec.com/Schedule/"
+  company_url = "https://www.szcec.com/"
   location = "深圳市（中國）"
   date_start = "2017-07-01"
   date_end = "2017-08-31"

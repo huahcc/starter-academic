@@ -25,55 +25,55 @@ date_format = "Jan 2006"
   date_start = "2018-07-01"
   date_end = "2020-07-31"
   description = """
-  * `Product Optimization`: Company's application and web-side functions testing, find out the attractiveness of the product to each market segment and optimize more than 20+ functions. Promote those to different target customers through social media.
+  * `Product Optimization`：Company's application and web-side functions testing, find out the attractiveness of the product to each market segment and optimize more than 20+ functions. Promote those to different target customers through social media.
   * `Product Planning`：Proposed 3 new functions, analyzed the suitability through UI/UX, drew prototype to communicate with engineers. Successfully passed internal evaluation and went officially online, received numerous user feedbacks for data support for new function iteration.
   * `Community Operation`：Build a community operation framework analyze user needs, obtain 8000+ fans through daily topic interaction, question answering, popular science output and welfare activities, etc., converting 3000+ registered users with valid intentions.
   """
 [[experience]]
-  title = "校園市場經理"
-  company = "Mr. Finance 金融先生"
+  title = "Campus Marketing Manager"
+  company = "Mr. Finance"
   company_url = "https://www.linkedin.com/company/mr-finance/?originalSubdomain=cn"
-  location = "上海市（中國）"
+  location = "ShangHai, China"
   date_start = "2018-10-01"
   date_end = "2019-10-31"
   description = """
-  * `市場開發`：通過網絡、報刊、大樓廣告、車體廣告等媒介蒐集客戶信息，共發掘意向客戶約30+ 位，約見客戶10+ 位，成功簽單5位，在同期中業績排名第一。
-  * `競品策略`：分析教育行業內10+ 個領先企業進行競品分析，並收集全美50+ 所高校 CDS 數據，依據調查精准撰寫、製作產品資料(參數及競品對比、FAQ 等)，便於客服瞭解產品參數、定位及功能。
-  * `活動策劃`：負責規劃線上線下活動，並達成參與率與滿意度各100%。
+  * `Market Development`：Collect customer information through the Internet, newspapers, building advertisements, car advertisements and other media, discovered 30+ potential customers and interviewed 10+ customers. Successfully signed up 5 contracts, ranking first in performance among peers.
+  * `Conpetitive Analysis`：Analyze 10+ leading companies in the education industry for competitive product analysis, collecting CDS data from 50+ universities across the United States and accurately produce product information (parameters and comparison of competing products, FAQ, etc.) based on surveys, for customer service to understand product parameters, positioning and functions.
+  * `Event Planning`：Planning online and offline activities, achieved 100% on both participation rate and satisfaction.
   """
 [[experience]]
-  title = "商業開發代表"
-  company = "臺北市政府捷運工程局"
+  title = "Business Development Representative"
+  company = "Department of Rapid Transit Systems, Taipei City Government"
   company_url = "https://www.dorts.gov.taipei/"
-  location = "臺北市（臺灣）"
+  location = "Taipei City, Taiwan"
   date_start = "2018-07-01"
   date_end = "2018-12-31"
   description = """
-  * `商業開發`：接觸愛奇藝、Line、臺北美術館、仁寶電腦等企業進行需求開發與商業談判。
-  * `合作提案`：盤點現有資源與預期目標對企業進行資源交換。
-  * `活動策劃`：規劃耶誕樂派對活動，單日人流估計1500+。
+  * `Business Development`：Contact with companies such as iQiyi, Line, Taipei Art Museum, Compal Computer and others for requirement development and business negotiations.
+  * `Cooperation Proposal`：Inventory existing resources and expected goals to exchange resources with enterprises.
+  * `Event Planning`：Planning Christmas party activities, passenger flow in a single day is estimated to be 1500+.
   """
 [[experience]]
-  title = "資源開發 & 課程研發專員"
-  company = "時光聚落創學有限公司 (愛飛屋)"
+  title = "Resource & Course Development officer"
+  company = "iFlyHouse"
   company_url = "https://www.facebook.com/ifly999"
-  location = "臺中市（臺灣）"
+  location = "Taichung City, Taiwan"
   date_start = "2017-09-01"
   date_end = "2018-02-28"
   description = """
-  * `資源開發`：找尋契合的合作單位與各項專才職人，與各類型的單位如複雜生活節、臺中社會創新實驗基地等進行跨域交流。
-  * `課程研發`：參與開發多元社會情境學習課程，如大學生培力計畫、親子議題共學、鄉鎮走讀活動等。
-  * `專案管理`：搭針對學童個案進行適性化評量與規劃差異化學習。
+  * `Resource Development`：Look for suitable cooperative units and various professionals, conducting cross-domain exchanges with various types of entity such as the Complex Festival and the Taichung Social Innovation Unit.
+  * `Courcse Development`：Participate in the development of multi-social contextual learning courses, such as college students' training programs, parent-child issues co-learning, rural education, etc.
+  * `Project Management`：Take appropriate assessments and plan differentiated learning for student cases.
   """
 [[experience]]
-  title = "廣告企劃人員（實習）"
-  company = "深圳會展中心"
-  company_url = "https://www.szcec.com/Schedule/"
-  location = "深圳市（中國）"
+  title = "Advertising Planner (Intern)"
+  company = "Shenzhen Convention & Exhibition Center"
+  company_url = "https://www.szcec.com/"
+  location = "Shenzhen City, China"
   date_start = "2017-07-01"
   date_end = "2017-08-31"
   description = """
-  * `數據分析`：分析部門數據，替部門整理了2年400+ 筆的企業合作案資料並建立文件。
-  * `活動策劃`：協助籌備歷史逾百年，六年⼀次的國際植物學⼤會，洽談異業商務合作，形式包括但不限於資源置換、企業福利、線下落地活動、平台接入、跨界聯合活動、贊助等形式。
+  * `Data Analysis`：Analyzed departmental data, compiled 400+ enterprise cooperation case data and established documents.
+  * `Event Planning`：Assist in the preparation of the once-every-six-year International Botany Conference with a history of more than hundred years. Negotiate cross-industry business cooperation, including but not limited to resource replacement, corporate welfare, offline activities, platform access, cross-border joint activities, sponsorship, etc.
   """
 +++
