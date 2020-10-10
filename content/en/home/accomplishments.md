@@ -26,19 +26,17 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2017-01-01"
   date_end = ""
-  description = """
-  * Got Cathay Financial Holdings - Financial Innovation Group top ten from total 826 groups.
-  """
+  description = "● Got Cathay Financial Holdings - Financial Innovation Group top 10 from total 826 groups."
 
 [[item]]
   organization = "Mercer"
   organization_url = "https://www.mercer.com/"
-  title = "美世盃商業案例分析大賽"
+  title = "Mercer Cup Business Competition"
   url = ""
   certificate_url = ""
   date_start = "2018-01-01"
   date_end = ""
-  description = "從超過200組隊伍中取得第21名佳績"
+  description = "Got #21 從超過200組隊伍中取得第21名佳績"
   
 [[item]]
   organization = "Bain & Company"
