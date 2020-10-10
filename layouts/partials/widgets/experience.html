@@ -42,7 +42,6 @@
                 {{ i18n "present" | default "Present" }}
               {{else}}
                 {{ .data_end }}
-                <!-- {{ (time .date_end).Format ($page.Params.date_format | default "January 2006") }} -->
               {{end}}
               {{with .location}}
                 <span class="middot-divider"></span>
