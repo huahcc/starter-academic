@@ -36,14 +36,14 @@ education:
     institution: 臺北市立大學 (專題x1)
     year: 2016
     papers:
-    1. 建構奢侈品牌價值估值方法 - 以Jo Malone實證
+    建構奢侈品牌價值估值方法 - 以Jo Malone實證
   - course: 工商管理學系交換生
     institution: 華東師範大學 (專題x3)
     year: 2019
     papers:
-    1. 基於BP神經網路的住院費用影響因素分析
-    2. 2010年歐債危機的成因、發展過程、對策及對當前的啟示
-    3. 面向電商運營的精準匹配與個性化推薦對策
+    基於BP神經網路的住院費用影響因素分析
+    2010年歐債危機的成因、發展過程、對策及對當前的啟示
+    面向電商運營的精準匹配與個性化推薦對策
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
