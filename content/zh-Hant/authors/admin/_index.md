@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hsiang-Chu Chou
+title: 周湘筑
 
 # Username (this should match the folder name)
 authors:
