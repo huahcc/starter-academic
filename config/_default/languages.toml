@@ -10,7 +10,7 @@
 [zh-Hant]
   languageCode = "zh-Hant"
   contentDir = "content/zh-Hant"
-  title = "周湘筑"
+  title = "Hsiang-Chu Chou"
   [zh-Hant.params]
     contact_links = [
       {icon = "envelope", icon_pack = "fas", name = "xcjocjo@gmail.com", link = "mailto:xcjocjo@gmail.com"},
