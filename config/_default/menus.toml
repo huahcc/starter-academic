@@ -14,11 +14,6 @@
   weight = 20
 
 [[main]]
-  name = "Thesis"
-  url = "#thesis"
-  weight = 30
-
-[[main]]
   name = "Experience"
   url = "#work-experience"
   weight = 40

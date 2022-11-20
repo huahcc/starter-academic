@@ -27,10 +27,6 @@
   	url = "#skills"
   	weight = 20
   [[zh-Hant.menu.main]]
-  	name = "論文"
-  	url = "#thesis"
-  	weight = 30
-  [[zh-Hant.menu.main]]
   	name = "經歷"
   	url = "#work-experience"
   	weight = 40
