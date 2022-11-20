@@ -18,6 +18,26 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "專案管理 Project Manager （實習）"
+  company = "Advantech 研華股份有限公司"
+  company_url = "https://www.advantech.com/zh-tw"
+  location = "臺北市（臺灣）"
+  date_start = "2022-06-01"
+  date_end = "2022-09-31"
+  description = """
+  * `產品策劃`：blablablabla
+  """
+[[experience]]
+  title = "人力資源管理（實習）"
+  company = "SSSTC 建興儲存科技股份有限公司"
+  company_url = "https://www.ssstc.com/tw/"
+  location = "新竹市（臺灣）"
+  date_start = "2021-07-01"
+  date_end = "2021-08-31"
+  description = """
+  * `人力資源`：blablablabla
+  """
+[[experience]]
   title = "Quality Engineer & Marketing（實習）"
   company = "Fugle 群馥科技股份有限公司"
   company_url = "https://www.fugle.tw/"
