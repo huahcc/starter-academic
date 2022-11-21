@@ -18,25 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "專案管理 Project Manager （實習）"
+  title = "產品行銷企劃（實習）"
   company = "Advantech 研華股份有限公司"
   company_url = "https://www.advantech.com/zh-tw"
   location = "臺北市（臺灣）"
   date_start = "2022-06-01"
   date_end = "2022-09-31"
   description = """
-  * `產品策劃`：blablablabla
+  * `社群經營`：針對專業內容發想貼文及製作，LinkedIn 經營成效較以往觸及及互動皆成長 300% 以上。
+  * `廣告投放`：針對所有發布貼文進行產品 Google SEM 廣告 CTR 皆達 5 %。
   """
 [[experience]]
-  title = "人力資源管理（實習）"
+  title = "人力資源管理師（僱主品牌）"
   company = "SSSTC 建興儲存科技股份有限公司"
   company_url = "https://www.ssstc.com/tw/"
   location = "新竹市（臺灣）"
   date_start = "2021-07-01"
   date_end = "2021-08-31"
   description = """
-  * `人力資源`：blablablabla
-  """
+  * `程式撰寫`：使用Python 撰寫官方粉絲團的自動化聊天機器人。
+  * `AR製作`：使用 Spark AR 製作 Instagram AR 濾鏡，增加員工互動。
+  * `對外溝通`：聯繫 20 + 國內頂尖電資學院教授，協助辦理校園徵才事宜。
+  * `活動企劃`：規劃徵才 Podcast 錄製，收聽有效用戶達 2000+ 人次。
+    """
 [[experience]]
   title = "Quality Engineer & Marketing（實習）"
   company = "Fugle 群馥科技股份有限公司"
