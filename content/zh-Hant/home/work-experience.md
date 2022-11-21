@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   * `AR製作`：使用 Spark AR 製作 Instagram AR 濾鏡，增加員工互動。
   * `對外溝通`：聯繫 20 + 國內頂尖電資學院教授，協助辦理校園徵才事宜。
   * `活動企劃`：規劃徵才 Podcast 錄製，收聽有效用戶達 2000+ 人次。
-    """
+  """
 [[experience]]
   title = "Quality Engineer & Marketing（實習）"
   company = "Fugle 群馥科技股份有限公司"
