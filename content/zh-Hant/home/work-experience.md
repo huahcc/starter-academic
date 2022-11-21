@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.advantech.com/zh-tw"
   location = "臺北市（臺灣）"
   date_start = "2022-06-01"
-  date_end = "2022-09-31"
+  date_end = "2022-09-30"
   description = """
   * `社群經營`：針對專業內容發想貼文及製作，LinkedIn 經營成效較以往觸及及互動皆成長 300% 以上。
   * `廣告投放`：針對所有發布貼文進行產品 Google SEM 廣告 CTR 皆達 5 %。
