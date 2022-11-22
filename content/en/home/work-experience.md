@@ -18,6 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Product Marketing Planner (Intern)"
+  company = "Advantech"
+  company_url = "https://www.advantech.com/zh-tw"
+  location = "Taipei City, Taiwan"
+  date_start = "2022-06-01"
+  date_end = "2022-09-30"
+  description = """
+  * `Community Operation`：Producing article for professional content, LinkedIn's business effectiveness has increased by more than 300% compared with the past.
+  * `Advertising`：Product Google SEM advertising for all published posts with a CTR of 5 %.
+  """
+[[experience]]
+  title = "Human Resource Manager (Interm)"
+  company = "SSSTC, Solid State Storage Technology Corporation"
+  company_url = "https://www.ssstc.com/tw/"
+  location = "HsinChu City, Taiwan"
+  date_start = "2021-07-01"
+  date_end = "2021-08-31"
+  description = """
+  * `Programing`：Write an automated chatbot for an official fan club in Python.
+  * `AR Producing`：Create Instagram AR filters with Spark AR to increase employee engagement.
+  * `External Communication`：Contact 20+ professors from the top electrical engineering colleges to assist in the recruitment of talents on campus.
+  * `Event Planning`：Planned talent recruitment Podcast recording, listened to 2000+ effective users.
+  """
+[[experience]]
   title = "Quality Engineer & Marketing (Intern)"
   company = "Fortuna Intelligence Co., Ltd."
   company_url = "https://www.fugle.tw/"
